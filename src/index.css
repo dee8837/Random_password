@@ -1,0 +1,43 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.pass{
+  display: flex;
+  justify-content: center;
+}
+.input{
+  padding: 1rem 32.8rem;
+  background-color: whitesmoke;
+  
+}
+button{
+  padding: 1rem 33.1rem;
+  font-weight: 300;
+  font-size: large;
+  background-color: whitesmoke;
+
+}
+.container{
+  margin: 5%;
+  /* border: 2px solid red; */
+  background-color: rgb(194, 233, 220);
+  
+ 
+
+}
+select{
+  font-size: large;
+  background-color: rgb(197, 197, 230);
+  padding-left: 15px;
+  row-gap: 10px;
+  position:absolute;
+  right: 180px; 
+
+}
+.option{
+  font-size: large;
+ 
+}
+
